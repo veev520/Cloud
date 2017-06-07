@@ -1,4 +1,5 @@
-import club.veev.cloud.MainSetup;
+package club.veev.cloud.nutz;
+
 import org.nutz.mvc.annotation.*;
 import org.nutz.mvc.ioc.provider.ComboIocProvider;
 

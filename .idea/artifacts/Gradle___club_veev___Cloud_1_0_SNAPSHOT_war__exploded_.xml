@@ -17,11 +17,14 @@
           <element id="dir-copy" path="$PROJECT_DIR$/build/resources/main" />
         </element>
         <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/lib/nutz/servlet-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/nutz/druid-1.0.31.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/nutz/mysql-connector-java-5.1.40.jar" />
           <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jre8:1.1.1" />
+          <element id="library" level="project" name="Gradle: org.nutz:nutz:1.r.61.r2" />
           <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jre7:1.1.1" />
           <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.1.1" />
           <element id="library" level="project" name="Gradle: org.jetbrains:annotations:13.0" />
-          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.nutz/nutz/1.r.61.r2/298a6487911905c9ed2f323027c389d865d58c61/nutz-1.r.61.r2.jar" />
         </element>
       </element>
     </root>

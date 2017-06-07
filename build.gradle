@@ -57,4 +57,9 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
 
     compile(group: 'org.nutz', name: 'nutz', version:'1.r.61.r2')
+
+    compile files('lib/nutz/servlet-api.jar')
+    compile files('lib/nutz/druid-1.0.31.jar')
+    compile files('lib/nutz/mysql-connector-java-5.1.40.jar')
+
 }
